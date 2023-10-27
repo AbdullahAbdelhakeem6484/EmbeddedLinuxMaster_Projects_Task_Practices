@@ -1,0 +1,3 @@
+C:/SEITech_Solutions2023/18- ES/ES Linux/Moatasm/EmbeddedLinuxMaster_Projects&Tasks/C++/Projects/ControlPC_ViaMobile/build/CMakeFiles/control_laptop_server.dir
+C:/SEITech_Solutions2023/18- ES/ES Linux/Moatasm/EmbeddedLinuxMaster_Projects&Tasks/C++/Projects/ControlPC_ViaMobile/build/CMakeFiles/edit_cache.dir
+C:/SEITech_Solutions2023/18- ES/ES Linux/Moatasm/EmbeddedLinuxMaster_Projects&Tasks/C++/Projects/ControlPC_ViaMobile/build/CMakeFiles/rebuild_cache.dir

@@ -1,0 +1,25 @@
+cmake_minimum_required(VERSION 3.0)
+project(ControlLaptopProject)
+
+# set(CMAKE_CXX_STANDARD 17)
+# set(CMAKE_CXX_EXTENSIONS ON)
+# set(CMAKE_CXX_STANDARD_REQUIRED ON)
+
+# Set the source files
+set(SOURCES
+    execute_commands.cc
+    socket_handler.cc
+    app.cc
+)
+
+# Set the headers
+set(HEADERS
+    execute_commands.hh
+    socket_handler.hh
+)
+
+# Add an executable
+add_executable(control_laptop_server ${SOURCES} ${HEADERS})
+
+# Link against ws2_32 library for Winsock functionality
+target_link_libraries(control_laptop_server PRIVATE ws2_32)

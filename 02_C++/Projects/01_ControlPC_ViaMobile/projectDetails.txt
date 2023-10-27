@@ -1,0 +1,29 @@
+pc Control:
+00- Socket C/C++
+01- Write code to create Server on PC
+02- How can I run Linux command  through c++  (shell command)  like open firefox, any browser and so on
+(run shell command)
+
+you will take the request from the server and execute command
+
+=============================================
+
+03- download mobile application(as a client for my server)  (API Tester)
+04-my role write server code that will run on PC (PC - server) (mobile - client)
+
+=============================================
+Server Requirements:
+01- Open Socket
+02- Receive Requests that will coming
+03- parse the Request
+04- check the code of Request {
+       - if need open calculator ---> turn on calculator
+       - if need shut down ---? shut down
+}
+05 Execute
+
+===============================================
+Run Test:
+g++ main.cc -o server -lws2_32
+server.exe
+http://192.168.1.8:9999/?command=firefox
