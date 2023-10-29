@@ -19,7 +19,9 @@
 * Note: https://hackingcpp.com/cpp/cheat_sheets.html#hfold0a
 *******************************************************/
 #include<iostream>
-int main(){
+#include<vector>
 
+int main(){
+    std::cout << "/* message */" << std::endl;
     return 0;
 }
