@@ -1,0 +1,2 @@
+01- https://labex.io/courses/linux-basic-commands-practice-online
+02- Write c++ code with cmake to generate shared library and write application linke with library.

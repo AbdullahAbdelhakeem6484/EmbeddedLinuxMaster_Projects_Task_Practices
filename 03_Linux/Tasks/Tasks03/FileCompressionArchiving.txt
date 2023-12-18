@@ -1,0 +1,21 @@
+Tar
+Bz2
+7z
+Giza
+
+
+Task: check underline
+
+
+tar -zxvf filename.tar.gz
+
+tar -C /myfolder -zxvf filename.tar.gz
+
+tar -xvf filename.tar
+
+
+/*Extract to another directory type*/
+tar -C /myfolder -xvf filename.tar
+
+
+Abdullah

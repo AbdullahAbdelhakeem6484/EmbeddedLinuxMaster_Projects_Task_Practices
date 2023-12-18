@@ -1,0 +1,52 @@
+Task
+1- use regex with grep to validate email and phone number
+2- use regex with python to validate address 22,st salah salem-Giza
+3- use regex with C++ to validate branch name
+feature/TN-123/branchname
+4- (future task) use regex with rust to validate email and phone
+number
+
+
+----------------------------
+
+- Check awk command
+- how to print specific column in file separated with spaces
+- how to print specific column in file separated with comma
+- awk '/Moatasem/ {print $2}' file → what this command will do ?
+- awk '$1 ~ /(Moatasem|this)/' file→ what this command will do ?
+
+-----------------------------
+
+Tasks
+- Using vim to write c++ code
+    Example : ./a.out -m 23 -h 1 -d monday <task>
+- Search about this commands ( nl , pushd,seq,shutdown
+    ,reboot,tee,test,time,xargs,strings)
+- See Dr Arabway videos about 102: Understanding Linux
+    https://www.youtube.com/playlist?list=PLWXRxAK4bUzc9gq-W2xWDe9zEaDcowLfs
+- Understand pipe,fifo (system calls)
+
+
+
+
+
+
+
+-----------------------------
+Utils
+Nautilus
+Bc
+cal/date
+clear/ ctrl +L
+Sort | uniq
+Reset
+Sleep
+Locate
+Stat
+Tree
+History
+Display
+wc
+Exit
+Unalias
+-----------------------------

@@ -1,0 +1,1 @@
+0 means input || 1 means output || 2 menas error 

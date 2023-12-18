@@ -1,0 +1,4 @@
+C:/SEITech_Solutions2023/18- ES/ES Linux/Moatasm/EmbeddedLinuxMaster_Projects&Tasks/03_Linux/Tasks02/build/CMakeFiles/MyLibrary.dir
+C:/SEITech_Solutions2023/18- ES/ES Linux/Moatasm/EmbeddedLinuxMaster_Projects&Tasks/03_Linux/Tasks02/build/CMakeFiles/MyApp.dir
+C:/SEITech_Solutions2023/18- ES/ES Linux/Moatasm/EmbeddedLinuxMaster_Projects&Tasks/03_Linux/Tasks02/build/CMakeFiles/edit_cache.dir
+C:/SEITech_Solutions2023/18- ES/ES Linux/Moatasm/EmbeddedLinuxMaster_Projects&Tasks/03_Linux/Tasks02/build/CMakeFiles/rebuild_cache.dir

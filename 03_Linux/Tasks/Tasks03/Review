@@ -1,0 +1,82 @@
+---- Text Manipulation ----
+i insert before cursor
+I Insert at start of line
+
+a insert after cursor
+A insert at end of line 
+
+o add new below cursor
+O add new line above  cursor
+
+ea insert at the end of line 
+
+Esc exit
+
+
+---------------------------------------------
+
+
+---- Text Manipulation ----
+y yank/copy
+yy yank a line
+yw yank a word
+y$ yank to end of line 
+p paste after cursor
+P paste after cursor
+dd delete/ cut a line
+dw delete a word
+
+
+----------------------------------------------
+
+--- Visual Mode ---
+v enter visual mode
+V enter linewise visual mode
+Ctrl start visual block mode 
+> shift text left  
+< shift text Right
+
+>> shift left by shiftwidth
+<< shift right by shiftwidth
+
+== auto-indent line 
+
+
+-----------------------------------------------
+
+--- save and exit ---
+ZZ save and quit
+ZQ quit without saving
+:w write/save
+:q quit (fails if there are chnages)
+:wq write and quite
+:x write and quite
+:q! force quit without saving
+:q quit all vim buffer         
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

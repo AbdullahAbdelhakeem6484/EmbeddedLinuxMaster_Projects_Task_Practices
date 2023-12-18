@@ -1,0 +1,19 @@
+01- Asterisk (*):
+    zero or more characters
+
+02- Question Mark (?):
+    single characters
+
+03- Square Brackets [] and ranges:
+    specify a range or a set of characters for a single position in the pattern
+
+04- Braces {}:
+    generate multiple strings by speecifying a comma-separated list inside {}
+    ex. file{1,2,3}.txt
+
+05- Exclamation Mark (!) not :
+    - ls !(*.txt) lists all files and directories that don't end with .txt
+
+========
+
+error

@@ -1,0 +1,22 @@
+01- \w : stands for [a-zA-Z0-9_]
+02- \s : stands for space characters to tabs or line breaks
+03- \t : stands for tabs (Ascii 0x09)
+
+04- \r : stands for Carriage Return
+05- \n : stands for line feed
+06- \xnn : stands for character with Ascii
+
+[[:alnum:]] ---> [a-zA-Z0-9]
+[[:word:]]  ---> (\W)[a-zA-Z0-9_]
+[[:alpha:]] ---> [a-zA-Z]
+[[:digit:]] ---> [0-9]
+[[:blank:]] ---> (\s)
+[[:lower:]] --->[a-z]
+[[:upper:]] --->[A-Z]
+[[:space:]] --->
+[[:xdigit:]]---> [a-fA-F0-9]
+
+
+? --> zero or one  times
+* --> zero or more times
++ --> one or  more times

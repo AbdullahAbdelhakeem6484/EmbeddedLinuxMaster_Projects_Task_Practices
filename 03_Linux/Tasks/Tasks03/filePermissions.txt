@@ -1,0 +1,22 @@
+Permissions Classes:
+fileType:d
+    User: rwx
+        Group: rwx
+            Other: rwx
+
+
+rwx: Read , Write , Execute
+
+chmod  u=rw, go=r newFile.txt
+
+chmod +x newScript.sh
+chmod o-r *.page
+
+
+000  ---> No Permission
+
+111  ---> Read, Write and Execute
+
+chmod 664 *.page
+
+664  ---> (110)(110)(100)
